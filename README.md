@@ -1,0 +1,1 @@
+This is the repository for the first my-app of the Complete Ruby on rails project
